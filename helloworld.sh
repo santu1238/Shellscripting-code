@@ -11,4 +11,4 @@ var="Hello World"
 echo "$var"
  
 # Another way of printing it
-printf "%s\n" "$var"
+printf "%s\n" "$var" "second version"
