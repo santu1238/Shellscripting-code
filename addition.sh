@@ -7,7 +7,7 @@ a=10
 b=20
 c=70
 # Calculate sum
-sum=$(( $a + $b +$c ))
+sum=$(( $a + $b +$c +$c ))
 
 # Display the result
 echo "Sum is: $sum"
